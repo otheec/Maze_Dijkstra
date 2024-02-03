@@ -1,0 +1,10 @@
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\bin\Debug\GALPR_Framework.exe.config
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\bin\Debug\GALPR_Framework.exe
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\bin\Debug\GALPR_Framework.pdb
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.AssemblyReference.cache
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.Properties.Resources.resources
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.GenerateResource.cache
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.CoreCompileInputs.cache
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.exe
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.pdb
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.Form1.resources

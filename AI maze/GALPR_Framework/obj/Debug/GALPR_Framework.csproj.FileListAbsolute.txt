@@ -1,0 +1,41 @@
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\bin\Debug\GALPR_Framework.exe.config
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\bin\Debug\GALPR_Framework.exe
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\bin\Debug\GALPR_Framework.pdb
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.AssemblyReference.cache
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.Properties.Resources.resources
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.GenerateResource.cache
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.CoreCompileInputs.cache
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.exe
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.pdb
+C:\Users\rjaru\source\repos\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.Form1.resources
+C:\Users\Student\Downloads\GALPR_Framework\GALPR_Framework\bin\Debug\GALPR_Framework.exe.config
+C:\Users\Student\Downloads\GALPR_Framework\GALPR_Framework\bin\Debug\GALPR_Framework.exe
+C:\Users\Student\Downloads\GALPR_Framework\GALPR_Framework\bin\Debug\GALPR_Framework.pdb
+C:\Users\Student\Downloads\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.Form1.resources
+C:\Users\Student\Downloads\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.Properties.Resources.resources
+C:\Users\Student\Downloads\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.exe
+C:\Users\Student\Downloads\GALPR_Framework\GALPR_Framework\obj\Debug\GALPR_Framework.pdb
+C:\Users\Otmar\OneDrive\Plocha\AI maze\GALPR_Framework\bin\Debug\GALPR_Framework.exe.config
+C:\Users\Otmar\OneDrive\Plocha\AI maze\GALPR_Framework\bin\Debug\GALPR_Framework.exe
+C:\Users\Otmar\OneDrive\Plocha\AI maze\GALPR_Framework\bin\Debug\GALPR_Framework.pdb
+C:\Users\Otmar\OneDrive\Plocha\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.AssemblyReference.cache
+C:\Users\Otmar\OneDrive\Plocha\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Otmar\OneDrive\Plocha\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.Form1.resources
+C:\Users\Otmar\OneDrive\Plocha\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.Properties.Resources.resources
+C:\Users\Otmar\OneDrive\Plocha\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.GenerateResource.cache
+C:\Users\Otmar\OneDrive\Plocha\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Otmar\OneDrive\Plocha\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.exe
+C:\Users\Otmar\OneDrive\Plocha\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.pdb
+C:\Users\Otmar\Downloads\AI maze2\AI maze\GALPR_Framework\bin\Debug\GALPR_Framework.exe.config
+C:\Users\Otmar\Downloads\AI maze2\AI maze\GALPR_Framework\bin\Debug\GALPR_Framework.exe
+C:\Users\Otmar\Downloads\AI maze2\AI maze\GALPR_Framework\bin\Debug\GALPR_Framework.pdb
+C:\Users\Otmar\Downloads\AI maze2\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.AssemblyReference.cache
+C:\Users\Otmar\Downloads\AI maze2\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.Form1.resources
+C:\Users\Otmar\Downloads\AI maze2\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.Properties.Resources.resources
+C:\Users\Otmar\Downloads\AI maze2\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.GenerateResource.cache
+C:\Users\Otmar\Downloads\AI maze2\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Otmar\Downloads\AI maze2\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.exe
+C:\Users\Otmar\Downloads\AI maze2\AI maze\GALPR_Framework\obj\Debug\GALPR_Framework.pdb
